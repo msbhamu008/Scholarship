@@ -1,0 +1,105 @@
+[31-Aug-2021 07:56:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 07:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 07:56:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 07:56:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 62
+[31-Aug-2021 08:00:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 24
+[31-Aug-2021 08:00:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 36
+[31-Aug-2021 08:00:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 39
+[31-Aug-2021 08:00:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:03:46 UTC] PHP Warning:  include(/home/username/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:03:46 UTC] PHP Warning:  include(): Failed opening '/home/username/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:03:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:03:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:03:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 62
+[31-Aug-2021 08:27:53 UTC] PHP Warning:  include(/home/username/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:27:53 UTC] PHP Warning:  include(): Failed opening '/home/username/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:27:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:27:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:27:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 62
+[31-Aug-2021 08:27:54 UTC] PHP Warning:  include(/home/username/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:27:54 UTC] PHP Warning:  include(): Failed opening '/home/username/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:27:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:27:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:27:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 62
+[31-Aug-2021 08:28:28 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:28 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:28:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:28:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:28:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:28:29 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:29 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:28:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:28:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:28:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:28:37 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:37 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:28:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 25
+[31-Aug-2021 08:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 37
+[31-Aug-2021 08:28:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:41:24 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:41:24 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:41:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 40
+[31-Aug-2021 08:41:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:41:57 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:41:57 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:41:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61
+[31-Aug-2021 08:42:40 UTC] PHP Warning:  include(/home/byondx/public_html/web/navigation.php): failed to open stream: No such file or directory in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:42:40 UTC] PHP Warning:  include(): Failed opening '/home/byondx/public_html/web/navigation.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 3
+[31-Aug-2021 08:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_free_result() in /home/gpq75mp3n01l/public_html/web/tc/index.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gpq75mp3n01l/public_html/web/tc/index.php on line 61

@@ -1,0 +1,706 @@
+[04-Dec-2024 15:06:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:06:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:06:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:07:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:07:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:07:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php:33
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 33
+[04-Dec-2024 15:08:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php:9
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php on line 9
+[04-Dec-2024 15:09:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/register.php:45
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/register.php(45): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/register.php on line 45
+[04-Dec-2024 15:27:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php:9
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_registration_details.php on line 9
+[04-Dec-2024 15:29:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_registration_status.php:29
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_registration_status.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_registration_status.php on line 29
+[04-Dec-2024 16:37:54 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:37:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:39:54 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:39:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:43:03 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:43:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:43:06 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 16:43:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 17:48:58 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 17:48:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 17:59:24 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 17:59:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 18:13:04 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 18:13:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 19:05:06 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[04-Dec-2024 19:05:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[06-Dec-2024 00:36:49 UTC] PHP Warning:  require_once(db_connect.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[06-Dec-2024 00:36:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_passcode.php on line 7
+[06-Dec-2024 00:38:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php:28
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php on line 28
+[06-Dec-2024 00:39:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php:28
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php on line 28
+[06-Dec-2024 09:20:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php:28
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php on line 28
+[06-Dec-2024 10:04:59 UTC] PHP Warning:  Undefined variable $pdo in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_exam_settings.php on line 7
+[06-Dec-2024 10:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_exam_settings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/get_exam_settings.php on line 7
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:25:55 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 07:44:57 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 3
+[07-Dec-2024 07:44:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 3
+[07-Dec-2024 07:56:30 UTC] PHP Warning:  require_once(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[07-Dec-2024 07:56:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[07-Dec-2024 07:56:40 UTC] PHP Warning:  require_once(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[07-Dec-2024 07:56:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[07-Dec-2024 09:49:04 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:09 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:37:35 UTC] PHP Warning:  require_once(fpdf/fpdf.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[09-Dec-2024 06:37:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 2
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:49:12 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 06:54:49 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 06:54:49 UTC] Attempting database connection
+[09-Dec-2024 06:54:49 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 06:54:49 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 06:54:49 UTC] Creating PDF
+[09-Dec-2024 06:54:49 UTC] Generating PDF output
+[09-Dec-2024 06:58:50 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 06:58:50 UTC] Attempting database connection
+[09-Dec-2024 06:58:50 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 06:58:50 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 06:58:50 UTC] Creating PDF
+[09-Dec-2024 06:58:50 UTC] Generating PDF output
+[09-Dec-2024 07:00:51 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:00:51 UTC] Attempting database connection
+[09-Dec-2024 07:00:51 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:00:51 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:00:51 UTC] Creating PDF
+[09-Dec-2024 07:00:51 UTC] PHP Warning:  fopen(images/spark-logo.png): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/fpdf/fpdf.php on line 1274
+[09-Dec-2024 07:00:51 UTC] Error generating admit card: FPDF error: Can't open image file: images/spark-logo.png
+[09-Dec-2024 07:02:22 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:02:22 UTC] Attempting database connection
+[09-Dec-2024 07:02:22 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:02:22 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:02:22 UTC] Creating PDF
+[09-Dec-2024 07:02:22 UTC] PHP Warning:  fopen(scholarship/images/spark-logo.png): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/fpdf/fpdf.php on line 1274
+[09-Dec-2024 07:02:22 UTC] Error generating admit card: FPDF error: Can't open image file: scholarship/images/spark-logo.png
+[09-Dec-2024 07:03:47 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:03:47 UTC] Attempting database connection
+[09-Dec-2024 07:03:47 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:03:47 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:03:47 UTC] Creating PDF
+[09-Dec-2024 07:03:47 UTC] Generating PDF output
+[09-Dec-2024 07:04:20 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:04:20 UTC] Attempting database connection
+[09-Dec-2024 07:04:20 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:04:20 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:04:20 UTC] Creating PDF
+[09-Dec-2024 07:04:20 UTC] Generating PDF output
+[09-Dec-2024 07:04:54 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:04:54 UTC] Attempting database connection
+[09-Dec-2024 07:04:54 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:04:54 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:04:54 UTC] Creating PDF
+[09-Dec-2024 07:04:54 UTC] Generating PDF output
+[09-Dec-2024 07:05:24 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:05:24 UTC] Attempting database connection
+[09-Dec-2024 07:05:24 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:05:24 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:05:24 UTC] Creating PDF
+[09-Dec-2024 07:05:24 UTC] Generating PDF output
+[09-Dec-2024 07:05:43 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:05:43 UTC] Attempting database connection
+[09-Dec-2024 07:05:43 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:05:43 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:05:43 UTC] Creating PDF
+[09-Dec-2024 07:05:43 UTC] Generating PDF output
+[09-Dec-2024 07:07:42 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:07:42 UTC] Attempting database connection
+[09-Dec-2024 07:07:42 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:07:42 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:07:42 UTC] Creating PDF
+[09-Dec-2024 07:07:42 UTC] Generating PDF output
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:10:21 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 196
+[09-Dec-2024 07:16:00 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:16:00 UTC] Attempting database connection
+[09-Dec-2024 07:16:00 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:16:00 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:16:00 UTC] Creating PDF
+[09-Dec-2024 07:16:01 UTC] Generating PDF output
+[09-Dec-2024 07:24:23 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:24:23 UTC] Attempting database connection
+[09-Dec-2024 07:24:23 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:24:23 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:24:23 UTC] Creating PDF
+[09-Dec-2024 07:24:23 UTC] Generating PDF output
+[09-Dec-2024 07:27:51 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:27:51 UTC] Attempting database connection
+[09-Dec-2024 07:27:51 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:27:51 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:27:51 UTC] Creating PDF
+[09-Dec-2024 07:27:51 UTC] Generating PDF output
+[09-Dec-2024 07:29:11 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:29:11 UTC] Attempting database connection
+[09-Dec-2024 07:29:11 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:29:11 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:29:11 UTC] Creating PDF
+[09-Dec-2024 07:29:11 UTC] Generating PDF output
+[09-Dec-2024 07:29:45 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:29:45 UTC] Attempting database connection
+[09-Dec-2024 07:29:45 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:29:45 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:29:45 UTC] Creating PDF
+[09-Dec-2024 07:29:45 UTC] Generating PDF output
+[09-Dec-2024 07:30:42 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:30:42 UTC] Attempting database connection
+[09-Dec-2024 07:30:42 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:30:42 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:30:42 UTC] Creating PDF
+[09-Dec-2024 07:30:42 UTC] Generating PDF output
+[09-Dec-2024 07:31:06 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:31:06 UTC] Attempting database connection
+[09-Dec-2024 07:31:06 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:31:06 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:31:06 UTC] Creating PDF
+[09-Dec-2024 07:31:06 UTC] Generating PDF output
+[09-Dec-2024 07:31:28 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:31:28 UTC] Attempting database connection
+[09-Dec-2024 07:31:28 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:31:28 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:31:28 UTC] Creating PDF
+[09-Dec-2024 07:31:28 UTC] Generating PDF output
+[09-Dec-2024 07:32:09 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:32:09 UTC] Attempting database connection
+[09-Dec-2024 07:32:09 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:32:09 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:32:09 UTC] Creating PDF
+[09-Dec-2024 07:32:09 UTC] Generating PDF output
+[09-Dec-2024 07:33:07 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 07:33:07 UTC] Attempting database connection
+[09-Dec-2024 07:33:07 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 07:33:07 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001}
+[09-Dec-2024 07:33:07 UTC] Creating PDF
+[09-Dec-2024 07:33:07 UTC] Generating PDF output
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:47:44 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:48:36 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:17 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'has_appeared' in 'field list' in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php:11
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php on line 11
+[09-Dec-2024 07:49:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'has_appeared' in 'field list' in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php:11
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php on line 11
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 07:49:28 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:30:34 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:30:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'has_appeared' in 'field list' in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php:11
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php on line 11
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:34:39 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:34:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'has_appeared' in 'field list' in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php:11
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php(11): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php on line 11
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 198
+[09-Dec-2024 13:38:10 UTC] PHP Warning:  Undefined array key "has_appeared" in /home/zxz1e2s2ukh4/public_html/scholarship/backend/view_registrations.php on line 199
+[09-Dec-2024 13:38:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'has_appeared' in 'field list' in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php:15
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/update_exam_status.php on line 15
+[09-Dec-2024 13:51:55 UTC] Search Query: 
+[09-Dec-2024 13:51:55 UTC] Filter Class: 
+[09-Dec-2024 13:51:55 UTC] Filter Status: success
+[09-Dec-2024 13:51:58 UTC] Search Query: 
+[09-Dec-2024 13:51:58 UTC] Filter Class: 
+[09-Dec-2024 13:51:58 UTC] Filter Status: 
+[09-Dec-2024 13:52:02 UTC] Search Query: 
+[09-Dec-2024 13:52:02 UTC] Filter Class: 
+[09-Dec-2024 13:52:02 UTC] Filter Status: success
+[09-Dec-2024 13:53:22 UTC] Search Query: 
+[09-Dec-2024 13:53:22 UTC] Filter Class: 
+[09-Dec-2024 13:53:22 UTC] Filter Status: success
+[09-Dec-2024 13:53:27 UTC] Search Query: 
+[09-Dec-2024 13:53:27 UTC] Filter Class: 1
+[09-Dec-2024 13:53:27 UTC] Filter Status: 
+[09-Dec-2024 13:53:35 UTC] Search Query: 
+[09-Dec-2024 13:53:35 UTC] Filter Class: 
+[09-Dec-2024 13:53:35 UTC] Filter Status: success
+[09-Dec-2024 13:53:39 UTC] Search Query: 
+[09-Dec-2024 13:53:39 UTC] Filter Class: 1
+[09-Dec-2024 13:53:39 UTC] Filter Status: 
+[09-Dec-2024 13:53:46 UTC] Search Query: 
+[09-Dec-2024 13:53:46 UTC] Filter Class: 
+[09-Dec-2024 13:53:46 UTC] Filter Status: 
+[09-Dec-2024 13:53:46 UTC] Search Query: 
+[09-Dec-2024 13:53:46 UTC] Filter Class: 
+[09-Dec-2024 13:53:46 UTC] Filter Status: 
+[09-Dec-2024 13:53:52 UTC] Search Query: 
+[09-Dec-2024 13:53:52 UTC] Filter Class: 
+[09-Dec-2024 13:53:52 UTC] Filter Status: success
+[09-Dec-2024 13:53:55 UTC] Search Query: 
+[09-Dec-2024 13:53:55 UTC] Filter Class: 
+[09-Dec-2024 13:53:55 UTC] Filter Status: 
+[09-Dec-2024 13:53:56 UTC] Search Query: 
+[09-Dec-2024 13:53:56 UTC] Filter Class: 
+[09-Dec-2024 13:53:56 UTC] Filter Status: 
+[09-Dec-2024 13:56:20 UTC] Search Query: 
+[09-Dec-2024 13:56:20 UTC] Filter Class: 
+[09-Dec-2024 13:56:20 UTC] Filter Status: 
+[09-Dec-2024 13:56:23 UTC] Received Application ID: 6688
+[09-Dec-2024 13:56:23 UTC] Received Status: 1
+[09-Dec-2024 13:56:23 UTC] Update successful for Application ID: 6688
+[09-Dec-2024 13:57:12 UTC] Search Query: 
+[09-Dec-2024 13:57:12 UTC] Filter Class: 
+[09-Dec-2024 13:57:12 UTC] Filter Status: 
+[09-Dec-2024 13:57:15 UTC] Search Query: 
+[09-Dec-2024 13:57:15 UTC] Filter Class: 
+[09-Dec-2024 13:57:15 UTC] Filter Status: 
+[09-Dec-2024 13:57:18 UTC] Search Query: 
+[09-Dec-2024 13:57:18 UTC] Filter Class: 
+[09-Dec-2024 13:57:18 UTC] Filter Status: 
+[09-Dec-2024 13:57:24 UTC] Search Query: 
+[09-Dec-2024 13:57:24 UTC] Filter Class: 
+[09-Dec-2024 13:57:24 UTC] Filter Status: 
+[09-Dec-2024 14:00:22 UTC] Search Query: 
+[09-Dec-2024 14:00:22 UTC] Filter Class: 
+[09-Dec-2024 14:00:22 UTC] Filter Status: 
+[09-Dec-2024 14:02:11 UTC] Search Query: 
+[09-Dec-2024 14:02:11 UTC] Filter Class: 
+[09-Dec-2024 14:02:11 UTC] Filter Status: 
+[09-Dec-2024 14:02:17 UTC] Search Query: 
+[09-Dec-2024 14:02:17 UTC] Filter Class: 
+[09-Dec-2024 14:02:17 UTC] Filter Status: 
+[09-Dec-2024 14:06:21 UTC] Search Query: 
+[09-Dec-2024 14:06:21 UTC] Filter Class: 
+[09-Dec-2024 14:06:21 UTC] Filter Status: 
+[09-Dec-2024 14:14:00 UTC] Search Query: 
+[09-Dec-2024 14:14:00 UTC] Filter Class: 
+[09-Dec-2024 14:14:00 UTC] Filter Status: 
+[09-Dec-2024 14:14:38 UTC] Search Query: 
+[09-Dec-2024 14:14:38 UTC] Filter Class: 
+[09-Dec-2024 14:14:38 UTC] Filter Status: 
+[09-Dec-2024 14:14:56 UTC] Search Query: 
+[09-Dec-2024 14:14:56 UTC] Filter Class: 
+[09-Dec-2024 14:14:56 UTC] Filter Status: 
+[09-Dec-2024 14:27:10 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 14:27:10 UTC] Attempting database connection
+[09-Dec-2024 14:27:10 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 14:27:10 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001,"has_appeared":"0"}
+[09-Dec-2024 14:27:10 UTC] Creating PDF
+[09-Dec-2024 14:27:10 UTC] Generating PDF output
+[09-Dec-2024 14:27:21 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 14:27:21 UTC] Attempting database connection
+[09-Dec-2024 14:27:21 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 14:27:21 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001,"has_appeared":"0"}
+[09-Dec-2024 14:27:21 UTC] Creating PDF
+[09-Dec-2024 14:27:21 UTC] Generating PDF output
+[09-Dec-2024 14:28:06 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 14:28:06 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 14:28:06 UTC] Generating admit card for application_id: 6688 and class: 4
+[09-Dec-2024 14:28:06 UTC] Attempting database connection
+[09-Dec-2024 14:28:06 UTC] Attempting database connection
+[09-Dec-2024 14:28:06 UTC] Attempting database connection
+[09-Dec-2024 14:28:06 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 14:28:06 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 14:28:06 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 6688, 4
+[09-Dec-2024 14:28:06 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001,"has_appeared":"0"}
+[09-Dec-2024 14:28:06 UTC] Creating PDF
+[09-Dec-2024 14:28:06 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001,"has_appeared":"0"}
+[09-Dec-2024 14:28:06 UTC] Creating PDF
+[09-Dec-2024 14:28:06 UTC] Student data retrieved: {"id":7,"full_name":"Tesst","class":"4","school_name":"Sips","city":"Sikar","parent_email":"Tess","parent_phone":"7276681922","application_id":"6688","passcode":"123456","registration_date":"2024-12-06 09:24:52","status":"pending","exam_id":4001,"has_appeared":"0"}
+[09-Dec-2024 14:28:06 UTC] Creating PDF
+[09-Dec-2024 14:28:06 UTC] Generating PDF output
+[09-Dec-2024 14:28:06 UTC] Generating PDF output
+[09-Dec-2024 14:28:06 UTC] Generating PDF output
+[09-Dec-2024 14:30:06 UTC] Generating admit card for application_id: 7143 and class: 4
+[09-Dec-2024 14:30:06 UTC] Attempting database connection
+[09-Dec-2024 14:30:06 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[09-Dec-2024 14:30:06 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[09-Dec-2024 14:30:06 UTC] Creating PDF
+[09-Dec-2024 14:30:06 UTC] Generating PDF output
+[09-Dec-2024 14:35:44 UTC] Search Query: 
+[09-Dec-2024 14:35:44 UTC] Filter Class: 
+[09-Dec-2024 14:35:44 UTC] Filter Status: 
+[10-Dec-2024 10:29:53 UTC] Search Query: 
+[10-Dec-2024 10:29:53 UTC] Filter Class: 
+[10-Dec-2024 10:29:53 UTC] Filter Status: 
+[10-Dec-2024 10:30:01 UTC] Search Query: 
+[10-Dec-2024 10:30:01 UTC] Filter Class: 
+[10-Dec-2024 10:30:01 UTC] Filter Status: 
+[10-Dec-2024 10:30:04 UTC] Search Query: 
+[10-Dec-2024 10:30:04 UTC] Filter Class: 
+[10-Dec-2024 10:30:04 UTC] Filter Status: 
+[10-Dec-2024 10:30:39 UTC] Search Query: 
+[10-Dec-2024 10:30:39 UTC] Filter Class: 
+[10-Dec-2024 10:30:39 UTC] Filter Status: 
+[10-Dec-2024 10:30:45 UTC] Search Query: 
+[10-Dec-2024 10:30:45 UTC] Filter Class: 
+[10-Dec-2024 10:30:45 UTC] Filter Status: 
+[10-Dec-2024 10:30:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php:28
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php on line 28
+[10-Dec-2024 10:30:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sips.registrations' doesn't exist in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php:28
+Stack trace:
+#0 /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/export_registrations.php on line 28
+[10-Dec-2024 10:31:04 UTC] Search Query: 
+[10-Dec-2024 10:31:04 UTC] Filter Class: 4
+[10-Dec-2024 10:31:04 UTC] Filter Status: 
+[10-Dec-2024 10:31:10 UTC] Search Query: 
+[10-Dec-2024 10:31:10 UTC] Filter Class: 4
+[10-Dec-2024 10:31:10 UTC] Filter Status: rejected
+[10-Dec-2024 10:31:20 UTC] Search Query: 
+[10-Dec-2024 10:31:20 UTC] Filter Class: 
+[10-Dec-2024 10:31:20 UTC] Filter Status: rejected
+[10-Dec-2024 10:31:27 UTC] Search Query: 
+[10-Dec-2024 10:31:27 UTC] Filter Class: 
+[10-Dec-2024 10:31:27 UTC] Filter Status: 
+[10-Dec-2024 10:31:34 UTC] Search Query: 
+[10-Dec-2024 10:31:34 UTC] Filter Class: 
+[10-Dec-2024 10:31:34 UTC] Filter Status: 
+[10-Dec-2024 10:31:43 UTC] Search Query: 
+[10-Dec-2024 10:31:43 UTC] Filter Class: 
+[10-Dec-2024 10:31:43 UTC] Filter Status: 
+[10-Dec-2024 10:31:50 UTC] Search Query: 
+[10-Dec-2024 10:31:50 UTC] Filter Class: 
+[10-Dec-2024 10:31:50 UTC] Filter Status: 
+[10-Dec-2024 10:31:59 UTC] Search Query: 
+[10-Dec-2024 10:31:59 UTC] Filter Class: 
+[10-Dec-2024 10:31:59 UTC] Filter Status: 
+[10-Dec-2024 16:14:31 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:14:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:14:49 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:14:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:20:27 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:20:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:23:38 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:23:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:27:17 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:27:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:28:01 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:28:28 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:28:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:31:07 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:31:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:32:37 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:32:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:33:02 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:33:02 UTC] Attempting database connection
+[10-Dec-2024 16:33:02 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:33:02 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:33:02 UTC] Creating PDF
+[10-Dec-2024 16:33:02 UTC] Generating PDF output
+[10-Dec-2024 16:34:32 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:34:32 UTC] Attempting database connection
+[10-Dec-2024 16:34:32 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:34:32 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:34:32 UTC] Creating PDF
+[10-Dec-2024 16:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::SetAlpha() in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 89
+[10-Dec-2024 16:37:01 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:37:01 UTC] Attempting database connection
+[10-Dec-2024 16:37:01 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:37:01 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:37:01 UTC] Creating PDF
+[10-Dec-2024 16:37:01 UTC] PHP Warning:  fopen(../images/sunrise_logo.png): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/fpdf/fpdf.php on line 1274
+[10-Dec-2024 16:37:01 UTC] Error generating admit card: FPDF error: Can't open image file: ../images/sunrise_logo.png
+[10-Dec-2024 16:37:16 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:37:16 UTC] Attempting database connection
+[10-Dec-2024 16:37:16 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:37:16 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:37:16 UTC] Creating PDF
+[10-Dec-2024 16:37:16 UTC] Generating PDF output
+[10-Dec-2024 16:41:25 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:41:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 11
+[10-Dec-2024 16:42:50 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:42:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:42:57 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:42:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:43:24 UTC] PHP Warning:  require_once(phpqrcode/qrlib.php): Failed to open stream: No such file or directory in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:43:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 14
+[10-Dec-2024 16:44:41 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:44:41 UTC] Attempting database connection
+[10-Dec-2024 16:44:41 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:44:41 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:44:41 UTC] Creating PDF
+[10-Dec-2024 16:44:41 UTC] Generating PDF output
+[10-Dec-2024 16:45:26 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:45:26 UTC] Attempting database connection
+[10-Dec-2024 16:45:26 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:45:26 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:45:26 UTC] Creating PDF
+[10-Dec-2024 16:45:26 UTC] Generating PDF output
+[10-Dec-2024 16:46:17 UTC] Generating admit card for application_id: 7143 and class: 4
+[10-Dec-2024 16:46:17 UTC] Attempting database connection
+[10-Dec-2024 16:46:17 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[10-Dec-2024 16:46:17 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[10-Dec-2024 16:46:17 UTC] Creating PDF
+[10-Dec-2024 16:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::SetAlpha() in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 89
+[11-Dec-2024 06:35:08 UTC] Generating admit card for application_id: 7143 and class: 4
+[11-Dec-2024 06:35:08 UTC] Attempting database connection
+[11-Dec-2024 06:35:08 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[11-Dec-2024 06:35:08 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[11-Dec-2024 06:35:08 UTC] Creating PDF
+[11-Dec-2024 06:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::SetAlpha() in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/zxz1e2s2ukh4/public_html/scholarship/backend/generate_admit_card.php on line 89
+[11-Dec-2024 06:35:29 UTC] Generating admit card for application_id: 7143 and class: 4
+[11-Dec-2024 06:35:29 UTC] Attempting database connection
+[11-Dec-2024 06:35:29 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[11-Dec-2024 06:35:29 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[11-Dec-2024 06:35:29 UTC] Creating PDF
+[11-Dec-2024 06:35:29 UTC] Generating PDF output
+[11-Dec-2024 06:36:23 UTC] Generating admit card for application_id: 7143 and class: 4
+[11-Dec-2024 06:36:23 UTC] Attempting database connection
+[11-Dec-2024 06:36:23 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[11-Dec-2024 06:36:23 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[11-Dec-2024 06:36:23 UTC] Creating PDF
+[11-Dec-2024 06:36:24 UTC] Generating PDF output
+[11-Dec-2024 07:47:31 UTC] Generating admit card for application_id: 7143 and class: 4
+[11-Dec-2024 07:47:31 UTC] Attempting database connection
+[11-Dec-2024 07:47:31 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[11-Dec-2024 07:47:31 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[11-Dec-2024 07:47:31 UTC] Creating PDF
+[11-Dec-2024 07:47:32 UTC] Generating PDF output
+[11-Dec-2024 09:17:51 UTC] Generating admit card for application_id: 7143 and class: 4
+[11-Dec-2024 09:17:51 UTC] Attempting database connection
+[11-Dec-2024 09:17:51 UTC] Executing query: SELECT * FROM scholarship_registrations WHERE application_id = ? AND class = ? with params: 7143, 4
+[11-Dec-2024 09:17:51 UTC] Student data retrieved: {"id":6,"full_name":"Ranjana","class":"4","school_name":"Sipsps","city":"Sikar","parent_email":"M L","parent_phone":"7276681933","application_id":"7143","passcode":"123456","registration_date":"2024-12-06 02:00:30","status":"pending","exam_id":4000,"has_appeared":"1"}
+[11-Dec-2024 09:17:51 UTC] Creating PDF
+[11-Dec-2024 09:17:51 UTC] Generating PDF output

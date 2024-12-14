@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sunrise International Public School</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.2/css/font-awesome.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link rel="shortcut icon" href="images/Logo_SIPS.ico" />
+        <meta name="theme-color" content="#2874A6">
+
+
+        <script>
+            $(window).load(function () {
+                // Animate loader off screen
+                $(".se-pre-con").fadeOut("slow");
+                ;
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+                $(window).scroll(function () {
+
+                    console.log($(window).scrollTop())
+                    if ($(window).scrollTop() > 280) {
+                        $('#subNavBar').addClass('navbar-fixed');
+                    }
+                    if ($(window).scrollTop() < 281) {
+                        $('#subNavBar').removeClass('navbar-fixed');
+                    }
+                });
+            });
+
+        </script>
+
+    </head>
+    <body data-spy="scroll" data-target=".navbar" data-offset="60">
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="topLevelMenu container-fluid ">
+                <div class="contact">
+                    <p><b>Contact Us : +91-98285 12821&nbsp; |&nbsp; sunrise.school33@gmail.com</b></p>        
+                </div>
+                <div class="social">
+                    <ul class="list-inline">
+                        <li><a href="#footer">Quick Links</a></li>
+                        <li> | </li>
+                        <li><a href="#">Career</a></li>
+                        <li> | </li>
+                        <li><a href="https://www.google.com/maps/place/Sunrise+International+Public+School/@27.624006,74.756454,15z/data=!4m5!3m4!1s0x0:0x6ccf70cd70a06601!8m2!3d27.6221585!4d74.756454?hl=en-US" target="blank">Location</i></a></li>
+                        <li><a href="https://www.facebook.com/sunrisenechhwa/" target="_blank"><i class="fa fa-lg fa-facebook "></i></a></li>
+                        <li><a href="#"><i class="fa fa-lg fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-lg fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-lg fa-linkedin"></i></a></li>
+                    </ul>
+                </div>   
+            </div>  
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>                        
+                </button>
+                <div class="logoDiv">
+                    <a href="#myCarousel"><span><img src="images/school_logo.jpg" class="img-responsive" title="Sunrise International Public School" id="logo" width="380px";/></span></a>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse main" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right" style="padding-top : 25px;">
+                    <li class="active"><a href="#myCarousel"><span>Home</span></a></li>
+                    <li> <a href="#about"><span>About Us</span></a>
+
+                    </li>
+                    <li class="dropdown"> 
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span>Admission Information<b class="caret"></span></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="admission.php"><span>Admission Cell</span></a></li>
+                            <li><a href="onlineform.php"><span>Online Registration</span></a></li>
+                            <li><a href="admissionprocess.php"><span>Admission Process</span></a></li>
+                            <li><a href="guidelines.php"><span>Criteria/Guidelines</span></a></li>
+                            <li><a href="admissionprocess.php"><span>Admission Form pdf</span></a></li>
+                            <li><a href="reqdocuments.php"><span>Documents Required </span></a></li>
+                            <li><a href="feestructure.php"><span>Fee Structure</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span>Info Corner<b class="caret"></span></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="infocorner.php"><span>Guidelines For Parents</span></a></li>
+                            <li><a href="schoolrules.php"><span>School Rules</span></a></li>
+                            <li><a href="schooltimming.php"><span>School Timming</span></a></li>		  
+                            <li class="dropdown-submenu"><a href="#"  class="dropdown-toggle" data-toggle="dropdown"><span>School Houses<b class="caret"></span></b></a>
+                                <ul class="dropdown-menu" style="top:100px; left:130px; width:200px;">
+                                    <li><a href="#">APJ Abdul Kalam House</a></li>
+                                    <li><a href="#">Sunita Williams House</a></li>
+                                    <li><a href="#">C. V. Raman House</a></li>
+                                    <li><a href="#">Kalpana Chawla House</a></li>                                
+                                </ul>	
+                            </li>
+                            <li><a href="calender.php"><span>School Calendar</span></a></li>
+                            <li><a href="http://epathshala.nic.in/e-pathshala-4/flipbook/" target="_blank"><span>E-Books</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span>Activities<b class="caret"></span></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="sports.php"><span>Sports</span></a></li>
+                            <li><a href="gallery.php"><span>Gallery</span></a></li>
+                            <li><a href="educationaltour.php"><span>Educational Tours</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span>Communities<b class="caret"></span></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="feedbackform.php"><span>Feedback Form</span></a></li>
+                            <li><a href="alumini.php"><span>Alumini</span></a></li>
+
+                        </ul>
+                    </li>		   
+                    <li> <a href="career.php"><span>Career</span></a></li>
+                    <li><a href="contactus.php"><span>Contact Us</span></a></li>		  
+                </ul>
+            </div>
+        </nav>
+        <div class="jumbotron">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+
+                    <div class="item active">
+                        <img src="images/img17.jpg" alt="Los Angeles" style="width:100%; height:595px;">
+                        <div class="carousel-caption">
+                            <h3>A Building with four walls And Tomorrow inside</h3>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <img src="images/img18.jpg" alt="Chicago" style="width:100%; height:595px;">
+                        <div class="carousel-caption">
+                            <h3>A world of learners with children gain passport to the word</h3>
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <img src="images/img20.jpg" alt="New York" style="width:100%; height:595px;">
+                        <div class="carousel-caption">
+                            <h3>Teaching turning todays learners into tommorows leaders</h3>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="about">    
+        <h3 class="section-title" >About SIPS</h3>
+        <div class="section-title-divider"></div>
+        <br>
+        <div class="row" style="background-color : #2874A6;">
+            <div class="col-sm-6">
+                <img src="images/img19.jpg" alt="Chicago" style="width:100%; height:400px;">
+            </div>
+            <div class="col-sm-6">
+                <h3 class="section-title" style="padding-top:30px; color:#FFFFFF;">SIPS</h3>
+                <br>
+                <p style="font-size: 16px; color:#FFFFFF;">
+                    The Sunrise International Public School, Nechhwa, an English medium Co-educational School, came into existence in 2009 with a noble objective of transforming the rural societies by imparting <b>Value added Education</b> to grown up children of the region and further opening its doors for other educationally neglected areas. The school creates a climate conductive to learning, wherein both teachers and students look forward to getting back to the school after their holidays.
+                </p>
+                <br>
+                <a href="aboutus.php"><button class="readMore btn btn-warning">Read more</button></a>
+            </div>
+        </div>
+    </div>
+
+    <div id="facilities">
+        <h3 class="section-title" style="padding-top:35px;">Facilities</h3>
+        <div class="section-title-divider"></div>
+        <br>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility1.jpg" alt="Labs" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Labs</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        The new-age kids are highly imaginative, analytical, creative and practical by nature. <b>SIPS</b> is commited to impart education by practical means which enables the students to gain more and more knowledge with hands-on experience, model making, robotics, and practical-based learning activities in fully equipped laborartories designed for the purposes.
+                    </p>
+                </div>
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility2.jpg" alt="Smart Class Room" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Smart Class Room</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        Technology is a blessing. For children it can mean an enriching avenues for education as well as better entertainment. Therefore, to be an active part of the new generation it is important for the kids to develop the awareness for new and upcoming technologies. <b>SIPS</b> introduces kids to the mordern technologies through Smart and Digital classrooms.
+
+                    </p>
+                </div>
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility3.jpg" alt="Library" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Library</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        They say every word we read is a source of knowledge. Books are the best friends we always need. Kids exposed to great books turn into a great soul. <b>SIPS</b> provides an organized collection of study, teaching and learning material aimed at students and teachers in library where the kids as well as teachers will get the opportunity to read the most interesting, important and helpful books. 
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility4.jpg" alt="Labs" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Transport</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        <b>SIPS</b> provides students with transportation facility on nominal charges. All school buses meet all the gudelines and specifications. The buses are properly maintained to ensure comfort and safety of students.
+                    </p>
+                </div>
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility5.png" alt="Smart Class Room" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Sports</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        <b>SIPS</b> firmly believes in the famous phrase "<strong>A sound mind resides in a sound body</strong>" and therefore, is committed to make sports and games integral part of curriculum. <b>SIPS</b> provides a perfect platform for various kind of sports whether it is indoor or outdoor sports.	
+                        <!--Sports teache valuable lessons like team spirit, resourcefulness and also enculcate determination and courage and enhances the capacity to withstand protracted physical and mental strain. Exposure to sport allows a powerful growth of mind and body -->
+                    </p>
+                </div>
+                <div class="col-sm-4 text-center">
+                    <img src="images/facility6.jpg" alt="Library" class="img-circle" style="width:180px; height:150px;">
+                    <h3 style="color : #2874A6;">Hostel</h3>
+                    <p style="font-size: 13px; color:#000000;">
+                        <b>SIPS</b> provides students with a clean, safe and well structured hostel. The rooms are properly maintained so that no student should face any problem. The hostel is under the supervision of experienced wardens to help students and maintain discipline. 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="gallery">
+        <h3 class="section-title" style="padding-top:35px;">Gallery</h3>
+        <div class="section-title-divider"></div>
+        <br>
+        <div class="container-fluid">
+            <div class="row">
+                <marquee behavior="slide" scrollamount="35">
+                    <div class="col-sm-3 text-center">
+                        <img src="images/img17.jpg" alt="Labs" style="width:300px; height:200px;">
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <img src="images/img3.jpg" alt="Smart Class Room" style="width:300px; height:200px;">
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <img src="images/img12.jpg" alt="Smart Class Room" style="width:300px; height:200px;">
+                    </div>
+                    <div class="col-sm-3 text-center">
+
+                        <a href="gallery.php" style="width:300px; height:200px; color:#2874A6;"> 
+
+                            <img src="images/img3.jpg" alt="Smart Class Room" style="width:300px; height:200px; opacity:0.2;"/>		
+                            <div class="caption">
+                                <p><span class="glyphicon glyphicon-plus" style=" font-size:50px;"></span><br>
+                                    <b>To View More<br>
+                                        Go to Gallery</b></p>
+                            </div>
+                        </a>
+
+                    </div>
+                </marquee>
+            </div>
+
+        </div>
+    </div>
+    <br><br>
+    <!--footer -->
+
+    <div class="footer" id="footer">
+        <div class="row" style="background-color:#2C3E50;">
+            <div class="col-sm-5">			
+                <div id="map" style="width:100%;height:300px;"></div>
+            </div>
+            <div class="col-sm-7">
+                <div class="row">
+                    <div class="col-sm-7">
+                        <h3 class="section-title" style="padding-top:15px; color:#FFFFFF; font-size:20px;">Quick Links</h3>
+                        <div class="section-title-divider" style="width: 200px;"></div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <ul style="list-style: none;">
+                                    <li><a href="aboutschool.php"><span>About School</span></a></li>
+                                    <li><a href="admission.php"><span>Sunrise Admission Cell</span></a></li>
+                                    <li><a href="/directordesk"><span>Online Registration</span></a></li>
+                                    <li><a href="/principaldesk"><span>Fee Structure</span></a></li>
+                                    <li><a href="/schooltiming"><span>School Calender</span></a></li>										
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <ul style="list-style: none;">
+                                     <li><a href="MandatoryDisclosure _ SARAS 5.0.pdf" target="_blank"><span>Mandatory Public Disclosure</span></a></li>
+                                    <li><a href="/schooltiming"><span>Sports</span></a></li>
+                                    <li><a href="/gallery"><span>Gallery</span></a></li>
+                                    <li><a href="/schooltiming"><span>Parent's Feedback</span></a></li>
+                                    <li><a href="/schooltiming"><span>Career Oppurtunities</span></a></li>
+                                    <li><a href="/schooltiming"><span>Alumni</span></a></li>										
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 text-center">
+                        <h3 class="section-title" style="padding-top:15px; color:#FFFFFF; font-size:20px;">Contact Us</h3>
+                        <div class="section-title-divider" style="width: 200px;"></div>						
+                        <a href="https://www.google.com/maps/place/Sunrise+International+Public+School/@27.624006,74.756454,15z/data=!4m5!3m4!1s0x0:0x6ccf70cd70a06601!8m2!3d27.6221585!4d74.756454?hl=en-US" target="blank"><p><span class="glyphicon glyphicon-map-marker"></span>&nbsp;Salasar Main Rd, Nechhwa, <br>Sikar, Rajasthan - 332026, India</p></a>					
+                        <p style="color:#FFFFFF;"> <span class="glyphicon glyphicon-phone-alt"></span>&nbsp;+91-98285 12821</p>
+                        <p style="color:#FFFFFF;"> <span class="glyphicon glyphicon-envelope"></span>
+                            &nbsp;sunrise.school33@gmail.com</p>	
+
+                        <ul class="list-inline">					 
+                            <li><a href="https://www.facebook.com/sunrisenechhwa/" target="blank"><i class="fa fa-facebook "></i></a></li>                    
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>	
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="background-color:#17202A;">
+            <div class="container-fluid text-center" style="padding-top:5px; color:#FFFFFF; font-size:15px;">
+                Copyright&nbsp;&copy;&nbsp;2017&nbsp;Sunrise International Public School. &nbsp;Created by <a href="#" target="blank">koof</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        function initMap() {
+            var latLong = {lat: 27.622159, lng: 74.756454};
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: latLong,
+                mapTypeId: 'roadmap'
+            });
+            var marker = new google.maps.Marker({
+                position: latLong,
+                map: map
+            });
+        }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSEA1XPr2UHOIqK0sgQgUvNF9DvMuiDUg&callback=initMap"></script>
+    <script>
+        $(document).ready(function () {
+            // Add smooth scrolling to all links in navbar + footer link
+            $(".navbar a, footer a[href='#myPage']").on('click', function (event) {
+                // Make sure this.hash has a value before overriding default behavior
+                if (this.hash !== "") {
+                    // Prevent default anchor click behavior
+                    event.preventDefault();
+
+                    // Store hash
+                    var hash = this.hash;
+
+                    // Using jQuery's animate() method to add smooth page scroll
+                    // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 900, function () {
+
+                        // Add hash (#) to URL when done scrolling (default click behavior)
+                        window.location.hash = hash;
+                    });
+                } // End if
+            });
+
+        })
+    </script>
+</body>
+</html>
+

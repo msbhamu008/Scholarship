@@ -1,0 +1,463 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+h3{
+    color: #F1C40F;
+    font-weight : bold;
+}
+.contact{
+    color : #FDFEFE;
+    float : left;
+}
+.social{
+    color : #FDFEFE;
+    float : right;
+}
+a {
+    color : #FDFEFE;
+}
+a:hover{
+    color :#F1C40F;
+}
+.topLevelMenu{
+    padding-top: 3px;
+    background-color : #2874A6;
+}
+.logoDiv{
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-bottom : 3px;
+}
+.jumbotron {
+    background-size: cover;   
+    height : auto;
+}
+
+.navbar-default{
+    background-color : white;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: white;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    font-weight : bold;
+    letter-spacing: 0.5px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+.main li a, .navbar .navbar-brand {
+    color: #2874A6 !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #FDFEFE !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #f4511e !important;
+}
+
+.readMore{
+    border : 2px solid #FFFFFF;
+    background-color : #2874A6;
+    color : #FFFFFF;
+}
+.moreGallery{
+    border : 3px solid #2874A6;
+    background-color : #FFFFFF;
+    color : #000000;
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    width: 100%;
+}
+@media screen and (max-width: 480px) {
+
+    .social{
+        float : none;
+    }
+
+}
+
+
+/************* START
+gallery style sheet
+*****************/
+.container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    border-radius: 20px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+}
+
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+}
+
+.gallery-container p.page-description {
+    text-align: center;
+    max-width: 800px;
+    margin: 25px auto;
+    color: #888;
+    font-size: 18px;
+}
+
+.tz-gallery {
+    padding: 40px;
+}
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    margin-bottom: 30px;
+    transition: 0.2s ease-in-out;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+}
+
+
+.tz-gallery .lightbox img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+.tz-gallery img {
+    border-radius: 4px;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+
+@media(max-width: 768px) {
+    body {
+        padding: 0;
+    }
+
+    .container.gallery-container {
+        border-radius: 0;
+    }
+}
+
+/************* END
+gallery style sheet
+*****************/
+
+
+
+/************* START
+Style the section
+*****************/
+
+.section-title {
+    padding-top:130px;
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+
+.notify .section-title {
+    padding-top:60px;
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+.section-description {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-title-divider {
+    width: 300px;
+    height: 3px;
+    background: #03C4EB;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+/************* END
+Style the section
+*****************/
+
+/************* START
+Style the social links
+*****************/
+.footer .fa-facebook {
+    background: #FFFFFF;
+    color: black;
+    border:2px solid black;
+}
+.footer .fa-facebook:hover{
+    background: #3B5998;
+    color: white;
+}
+.footer .fa-linkedin {
+    background: #FFFFFF;
+    color: black;
+    border:2px solid black;
+}
+.footer .fa-linkedin:hover {
+    background: #007bb5;
+    color: white;
+}
+.footer .fa-instagram {
+    background: #FFFFFF;
+    color: black;
+    border:2px solid black;
+}
+.footer .fa-instagram:hover {
+    background: #E74C3C;
+    color: white;
+}
+.footer .fa {
+    padding: 13px;
+    font-size: 17px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+/************* END
+Style the social links
+*****************/
+
+
+/************* START
+Style the sidebar links
+*****************/
+#content {
+    float: left;
+}
+
+.two-column {
+    width: 66%;
+}
+
+.three-column {
+    width: 46%;
+    margin: 0 2%;
+}
+
+.with-right-sidebar {
+
+    margin-right: 2%;
+}
+
+.with-left-sidebar {
+    margin-left: 25%;
+}
+
+
+article {
+    padding: 10px 10px 20px 5px;
+}
+
+article .article-info {
+    color: #c0c0c0;
+    font-size: 0.9em;
+    letter-spacing: -0.5px;
+    padding: 0 0 10px 0;
+}
+
+article .article-info a { 
+    color: #c0c0c0;
+    border-bottom-color: #c0c0c0;
+}
+
+.sidebar {
+
+    margin-right: 40px;
+    color: #999;
+    font-size: 12px;
+}
+
+.small-sidebar { 
+    width: 20%;
+}
+
+.big-sidebar {
+    width: 25%;
+}
+
+.left-sidebar { 
+    float: left;
+}
+
+.right-sidebar {
+    float: right;
+}
+
+
+
+.sidebar h4 {
+    padding-bottom: 0;
+    font-size: 1.1em;
+    color: #444;
+    letter-spacing: -1px;
+    padding: 0;
+}
+
+.sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar ul li {
+    margin-bottom: 20px;
+    line-height: 1.9em;
+    padding: 10px;
+}
+
+.sidebar ul li.bg, .sidebar ul li.bg h4, .sidebar ul li.bg a, .sidebar ul li.bg a:hover {
+    background-color: #00A6EB;
+    color: #fff;
+}
+
+
+.sidebar li ul {
+    list-style: none outside none;
+    margin: 0px;
+}
+
+.sidebar li ul li {
+    display: block;
+    border-top: none;
+    padding: 7px 2px;
+    margin: 0;
+    line-height: 1.5em;
+    font-size: 0.85em;
+}
+
+.sidebar li ul li ul {
+    margin-top: 10px;
+}
+
+.sidebar li ul li li  {
+    font-size: 1.0em;
+    padding-left: 15px;
+}
+
+
+
+.sidebar li ul li.text { 
+    border-bottom: none;
+}
+
+
+
+.sidebar li.color-bg a {
+    border-bottom-color: #D1F1FF;
+    color: #FFFFFF;
+}
+
+
+.sidebar li.color-bg a:hover {
+    border-bottom-color: #fff;
+    color: #fff;
+}
+
+
+.sidebar li ul li a.readmore {
+    font-weight: bold;
+}
+
+
+.sidebar li.color-bg {
+    background-color: #2874A6;
+}
+
+.sidebar li.color-bg h4 {
+    color: #FFFFFF;
+}
+
+.sidebar ul.blocklist li {
+    padding: 0;
+}
+
+.sidebar ul.blocklist li a,
+.sidebar ul.blocklist li a:hover {
+    border-bottom: 0;
+    display: block;
+    padding: 12px 10px;
+}
+
+.sidebar ul.blocklist li a.selected {
+    background:#FFFFFF;
+    color: #000000;
+    font-weight: bold;
+
+}
+.sidebar li ul.blocklist li li {
+    font-size: 1.0em;
+}
+
+.sidebar li ul.blocklist ul {
+    margin-top: 0;
+}
+
+.sidebar li ul.blocklist li li a,
+.sidebar li ul.blocklist li li a:hover {
+    padding-left: 25px;
+}
+
+.sidebar ul.newslist li {
+    padding: 20px 0px;
+}
+
+.sidebar ul.newslist p {
+    margin-bottom: 0;
+}
+
+.sidebar ul.newslist span.newslist-date { 
+    background-color: #0092D1;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+
+
+
+.clear {
+    clear: both;
+}
+
+
+/************* END
+Style the sidebar links
+*****************/
+
+
+/************* start
+Style the dropdown links
+*****************/
+
+.dropdown:hover >.dropdown-menu {
+    display : block;
+}
+.dropdown-submenu:hover >.dropdown-menu{
+    display : block;
+}
+
+/************* end
+Style the dropdown links
+*****************/

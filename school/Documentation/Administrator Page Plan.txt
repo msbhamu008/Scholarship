@@ -1,0 +1,21 @@
+Administrator :
+
+1. Notification Handler
+	- Add new notification
+	- Delete a notification
+	- Edit a notification
+	- View notification
+
+2. Theme changer
+
+3. Open position in career
+	- Add
+	- Delete
+	- Edit
+	- View 
+	
+4. Enquiry Panel
+	- View Enquiry
+	- Reply to enquiry
+	
+5. Admin Profile
